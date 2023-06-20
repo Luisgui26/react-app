@@ -69,7 +69,7 @@ h1 {
 }
 
 #light .search{
-    background: #bbbbbb;
+    background: #d5d3d3;
 }
 
 .search input {
@@ -95,7 +95,7 @@ h1 {
 
   outline: none;
   color: rgb(0, 0, 0);
-  background: #bbbbbb;
+  background: #d6d5d5;
 }
 
 .search img {
